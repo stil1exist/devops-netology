@@ -48,4 +48,3 @@ override.tf.json
 terraform.rc `
 
 исключает файлы .terraformrc terraform.rc 
-s
